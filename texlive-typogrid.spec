@@ -6,7 +6,7 @@
 # catalog-version 0.10
 Name:		texlive-typogrid
 Version:	0.10
-Release:	1
+Release:	2
 Summary:	Print a typographic grid
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/typogrid
