@@ -1,12 +1,12 @@
-# revision 15878
+# revision 24994
 # category Package
 # catalog-ctan /macros/latex/contrib/typogrid
-# catalog-date 2007-01-18 23:55:07 +0100
+# catalog-date 2012-01-01 15:10:03 +0100
 # catalog-license lppl
-# catalog-version 0.10
+# catalog-version 0.21
 Name:		texlive-typogrid
-Version:	0.10
-Release:	2
+Version:	0.21
+Release:	1
 Summary:	Print a typographic grid
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/typogrid
@@ -35,11 +35,13 @@ of layout.
 #-----------------------------------------------------------------------
 %files
 %{_texmfdistdir}/tex/latex/typogrid/typogrid.sty
+%doc %{_texmfdistdir}/doc/latex/typogrid/ChangeLog
+%doc %{_texmfdistdir}/doc/latex/typogrid/Makefile
 %doc %{_texmfdistdir}/doc/latex/typogrid/README
+%doc %{_texmfdistdir}/doc/latex/typogrid/getversion.tex
 %doc %{_texmfdistdir}/doc/latex/typogrid/testtypogrid.tex
 %doc %{_texmfdistdir}/doc/latex/typogrid/typogrid.pdf
 #- source
-%doc %{_texmfdistdir}/source/latex/typogrid/Makefile
 %doc %{_texmfdistdir}/source/latex/typogrid/typogrid.dtx
 %doc %{_texmfdistdir}/source/latex/typogrid/typogrid.ins
 
