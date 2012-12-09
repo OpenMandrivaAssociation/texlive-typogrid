@@ -54,3 +54,20 @@ of layout.
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar tex doc source %{buildroot}%{_texmfdistdir}
+
+
+%changelog
+* Mon Jan 09 2012 Paulo Andrade <pcpa@mandriva.com.br> 0.21-1
++ Revision: 759070
+- Update to latest upstream release
+
+* Thu Jan 05 2012 Paulo Andrade <pcpa@mandriva.com.br> 0.10-2
++ Revision: 757168
+- Rebuild to reduce used resources
+
+* Sat Nov 05 2011 Paulo Andrade <pcpa@mandriva.com.br> 0.10-1
++ Revision: 719827
+- texlive-typogrid
+- texlive-typogrid
+- texlive-typogrid
+
