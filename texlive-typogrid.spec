@@ -3,7 +3,7 @@ Version:	24994
 Release:	2
 Summary:	Print a typographic grid
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/typogrid
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/typogrid
 License:	LPPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/typogrid.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/typogrid.doc.r%{version}.tar.xz
